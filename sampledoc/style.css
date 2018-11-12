@@ -14,10 +14,9 @@ x:p:h1:h2:h3 = 12px:14px:16px:24px:30px
 body {
     margin: 0;
     padding: 0;
-    font-size: 1em;
+    font-size: 10em;
     line-height:1.6;
     font-family: "ShinGoPro-Regular","ShinGo-Regular", sans-serif;
-    background: #888888;
     /*
     word-break: normal;
     -webkit-line-break: after-white-space;
